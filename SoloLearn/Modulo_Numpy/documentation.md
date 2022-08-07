@@ -1,17 +1,17 @@
 ## Funções Essenciais 
-####Principais funções pra array da numpy#####
+###Principais funções pra array da numpy###
 
 
   Função     | Como Funciona
   ---------  | -------------------
-  np.append  | Adiciona um novo elemento no array
-  np.reshape | Altera a dimensão do array 
-  np.dim     | Retorna o número de dimensões do array 
-  np.size    | Retorna a quantidade de elementos do array
-  np.shape   | Retorna as dimensões do array
-  np.arange  | Permite criar um array a partir de intervalos 
-  np.sort    | Ordena o array
-  np.delete  | Deleta um elemento do array
+  append()   | Adiciona um novo elemento no array
+  reshape()  | Altera a dimensão do array 
+  dim()      | Retorna o número de dimensões do array 
+  size()     | Retorna a quantidade de elementos do array
+  shape()    | Retorna as dimensões do array
+  arange()   | Permite criar um array a partir de intervalos 
+  sort()     | Ordena o array
+  delete()   | Deleta um elemento do array
 
 </br>
 
@@ -23,9 +23,9 @@
  
   Função     | Como Funciona
   ---------  | -------------------
-  np.append  | Adiciona um novo elemento no array
-  np.reshape | Altera a dimensão do array 
-  np.dim     | Retorna o número de dimensões do array 
-  np.size    | Retorna a quantidade de elementos do array
+  mean()     | Retorna a média
+  median()   | Retorna a mediana
+  std()      | Retorna o desvio padrão
+  var()      | Retorna a variância 
 
 </br>
