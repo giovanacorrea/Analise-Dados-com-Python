@@ -1,5 +1,5 @@
 ## Funções Essenciais 
-###Principais funções pra array da numpy###
+###Principais funções pra array da numpy
 
 
   Função     | Como Funciona
