@@ -1,5 +1,7 @@
+## Numpy
+</br> 
 
-## O que é a Numpy?
+### O que é a Numpy?
 <p>A Numpy é uma biblioteca que facilita a manipulação de dados, muito utilizada no meio científico. A Numpy é essencial para análise, extração e manipulação de dados estaíticos </p>
 </br>
 
@@ -33,3 +35,10 @@
   var      | Retorna a variância 
 
 </br>
+
+## 🐼 Pandas
+
+### O que é? 
+
+</br>
+<p> Sintaxe Básica </p> 
