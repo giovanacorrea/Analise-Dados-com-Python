@@ -28,7 +28,7 @@ Para importar a biblioteca: </br>
 
 ### **4. Média, Mediana, Variância e Desvio Padrão**
 
-<p>Existem algumas fórmulas essenciais para a análise de dados, que podem ser facilmente realizadas com funções disponibilizadas pela biblioteca Numpy:</p>
+<p>Existem algumas fórmulas essenciais para a análise de dados que podem ser facilmente realizadas com funções disponibilizadas pela biblioteca Numpy:</p>
 
   Função   | Como Funciona
   -------- | -------------------
