@@ -42,16 +42,17 @@
 
 ### **2. Sintax Básica**  
 
->Para importar a biblioteca: </br>
-   `import panda as pd`
-</br>
-
+Para importar a biblioteca: </br>
+   ```python
+   import panda as pd
+   ```
 ### **3. Séries e Dataframes**
 
 <p>Séries e colunas são duas estruturas essenciais da pandas. Uma série é uma coluna de uma tabela e um dataframe é uma matriz de n dimensões criada a partir das séries.</p>
 
 - **Dataframes** 
-    * Exemplo de criação de dataframe </br>
+
+     Exemplo de criação de dataframe: </br>
 
     ```python
     import pandas as pd
