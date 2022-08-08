@@ -1,3 +1,5 @@
+#criar um array de 0 a 9
+
 import numpy as np
 
 #sem arange
