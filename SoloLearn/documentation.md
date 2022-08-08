@@ -3,7 +3,13 @@
 
 <p>A Numpy é uma biblioteca que facilita a manipulação de dados, muito utilizada no meio científico. A Numpy é essencial para análise, extração e manipulação de dados estatísticos </p>
 
-### **2. Funções Essenciais** 
+### **2. Sintaxe Básica**  
+Para importar a biblioteca: </br>
+   ```python
+   import numpy as np
+   ```
+
+### **3. Funções Essenciais** 
 
 <p>Principais funções para manipulação de dados em um array da Numpy</p>
 
@@ -20,7 +26,7 @@
   sort     | Ordena o array
   delete   | Deleta um elemento do array
 
-### **3. Média, Mediana, Variância e Desvio Padrão**
+### **4. Média, Mediana, Variância e Desvio Padrão**
 
 <p>Existem algumas fórmulas essenciais para a análise de dados, que podem ser facilmente realizadas com funções disponibilizadas pela biblioteca Numpy:</p>
 
@@ -40,15 +46,15 @@
 <p> A Pandas é uma biblioteca criada a partir da Numpy, que tem por objetivo facilitar a manipulação de dados para análise. Mais específicamente, para lidar com tabelas e estruturas de dados mais complexas </p>
 
 
-### **2. Sintax Básica**  
+### **2. Sintaxe Básica**  
 
 Para importar a biblioteca: </br>
    ```python
    import panda as pd
    ```
-### **3. Séries e Dataframes**
+### **3. Series e Dataframes**
 
-<p>Séries e colunas são duas estruturas essenciais da pandas. Uma série é uma coluna de uma tabela e um dataframe é uma matriz de n dimensões criada a partir das séries.</p>
+<p>Series e dataframes são duas estruturas essenciais da pandas. Uma serie é o equivalente vetor e um dataframe é uma matriz de n dimensões, criada a partir das series.</p>
 
 - **Dataframes** 
 
@@ -65,7 +71,7 @@ Para importar a biblioteca: </br>
     ```
     ```
     Output: 
-      ages  heights
+         ages    heights
     0    14      165
     1    18      180
     2    24      176
